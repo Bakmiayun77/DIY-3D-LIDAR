@@ -1,0 +1,8 @@
+prefix=/home/jeffry/ydlidar_ws/install
+
+Name: Simplified_Lidar_Frame
+Description: Description of Simplified_Lidar_Frame
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

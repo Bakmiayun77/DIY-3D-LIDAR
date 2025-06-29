@@ -1,0 +1,8 @@
+prefix=/home/jeffry/ydlidar_ws/devel
+
+Name: lidar_3d_mapper
+Description: Description of lidar_3d_mapper
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

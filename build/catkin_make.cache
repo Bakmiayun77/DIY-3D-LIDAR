@@ -1,0 +1,2 @@
+Simplified_Lidar_Frame:lidar_3d_mapper:ydlidar_ros_driver
+-DCATKIN_DEVEL_PREFIX=/home/jeffry/ydlidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jeffry/ydlidar_ws/install -G Unix Makefiles
